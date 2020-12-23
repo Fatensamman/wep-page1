@@ -7,8 +7,8 @@ if (YourAge<45) {message = ' Choose a variety of vegetables, including dark gree
     
 } else {'CANNED SOUP. Canned Soup. POP-TARTS& BREAKFAST PASTRIES.SPECIAL K PROTEIN BARS. Special K bar.COLA. Soda.OREOS. Oreos. COCKTAILS & BEER.10&11. BAGELS & WHITE BREAD'
     
-}
+};
   alert (message);
-  alert ('Thank you')
+  alert ('Thank you');
 
   
