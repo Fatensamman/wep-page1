@@ -9,5 +9,6 @@ if (YourAge<45) {message = ' Choose a variety of vegetables, including dark gree
     
 }
   alert (message);
+  alert ('Thank you')
 
   
