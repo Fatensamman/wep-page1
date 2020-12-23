@@ -11,6 +11,14 @@ if (yourage>45) {
     
 };
   alert (message);
+
+  var foodhub;
+
+if (confirm("Do you want to get notification?") == true) {
+    foodhub = "You will be notified!";
+} else {
+   foodhub = "as you like!"
+  }
+  alert (foodhub)
   alert ('Thank you ^__^');
 
-  
