@@ -1,0 +1,17 @@
+.header-list {
+     display: inline-block;color: #5E4920; border : 2px solid #3B2D14; 
+     padding: 4px; margin: 7px; font-size: 25px; text-align: center;
+    }
+header {background-color: #DEAB4B;}
+
+h1 {color :#3B2D14 ; text-align: center;
+    padding: 4px; margin-top: 15px ; font-size: 50px;
+}
+  h2 {  color: #E3C894 ;background-color: #3B2D14;
+ margin: 50px ; text-align: left ;
+}
+.cheesekinds {display: inline-block; border : 2px solid #3B2D14; 
+    padding: 4px; margin-left: 100px; margin-right: 100px; font-size: 20px; background-color: #DEAB4B; }
+
+ .images{margin-left: 25px; margin-right: 25px;}
+footer {background-color: #DEAB4B;color :#3B2D14; font-size: 15px;}
